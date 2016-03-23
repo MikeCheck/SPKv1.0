@@ -1,0 +1,13 @@
+
+{
+	"UpdateRate": 100,
+	"PlcAddress": "0000",
+	"UseLocalHost": true,
+	"Application": "Application",
+	"StartVisu": "Zakalka_program",
+	"BestFit": true,
+	"LogLevel": "INFO",
+	"CommBufferSize": 50000,
+    "HasKeyboard": false,
+    "TouchHandlingActive": false
+}
